@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+.d-flex {
+  @apply flex items-center justify-center;
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white px-4 py-1 rounded-lg border border-transparent hover:bg-transparent hover:border-blue-700 hover:text-blue-600 cursor-pointer duration-300;
+}
+
+.btn-danger {
+  @apply bg-red-600 text-white px-4 py-1 rounded-lg border border-transparent hover:bg-transparent hover:border-red-700 hover:text-red-600 cursor-pointer duration-300;
+}
+
+.input {
+  @apply border border-gray-300 rounded-lg px-4 py-2 w-full border;
+}
