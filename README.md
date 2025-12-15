@@ -1,39 +1,52 @@
-# student-app
+# 🎓 Student Dashboard – Vue & Pinia
 
-This template should help get you started developing with Vue 3 in Vite.
+A clean and simple **Student Management Dashboard** built with modern Vue.js tools.
+This project demonstrates how to build a real-world CRUD application using both
+**framework concepts** and **solid JavaScript fundamentals**.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Features
 
-## Recommended Browser Setup
+- ➕ Add new students  
+- ✏️ Edit existing students  
+- 🗑️ Delete single student or all students  
+- 💾 Persistent data using **LocalStorage**  
+- 📊 Real-time total students counter  
+- 🎨 Clean & responsive UI
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## 🛠️ Tech Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Vue 3** (Composition API)
+- **Pinia** (State Management)
+- **Tailwind CSS**
+- **Vite**
+- **LocalStorage**
 
-## Project Setup
+---
 
-```sh
+## 🎯 Why This Project?
+
+I built this project as part of my learning journey to:
+
+- Understand **state management** with Pinia
+- Practice **CRUD logic** in a real application
+- Separate **logic, state, and UI**
+- Prove that I can build apps with **frameworks**, not just use them
+
+> The same project is also built using **Vanilla JavaScript** to highlight strong fundamentals.
+
+---
+
+## 📸 Preview
+
+![Student Dashboard Preview](./screenshot.png)
+
+---
+
+## ⚙️ Project Setup
+
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# student-dashboard-vue-pinia
