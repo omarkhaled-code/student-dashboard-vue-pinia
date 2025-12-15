@@ -36,14 +36,6 @@ I built this project as part of my learning journey to:
 
 > The same project is also built using **Vanilla JavaScript** to highlight strong fundamentals.
 
----
-
-## 📸 Preview
-
-![Student Dashboard Preview](./screenshot.png)
-
----
-
 ## ⚙️ Project Setup
 
 ```bash
