@@ -11,7 +11,6 @@ This project demonstrates how to build a real-world CRUD application using both
 - ➕ Add new students  
 - ✏️ Edit existing students  
 - 🗑️ Delete single student or all students  
-- 💾 Persistent data using **LocalStorage**  
 - 📊 Real-time total students counter  
 - 🎨 Clean & responsive UI
 
@@ -23,7 +22,6 @@ This project demonstrates how to build a real-world CRUD application using both
 - **Pinia** (State Management)
 - **Tailwind CSS**
 - **Vite**
-- **LocalStorage**
 
 ---
 
